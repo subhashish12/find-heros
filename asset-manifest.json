@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/subhashish12/find-heros/static/css/main.8d01695e.chunk.css",
-    "main.js": "/subhashish12/find-heros/static/js/main.70bab65f.chunk.js",
-    "main.js.map": "/subhashish12/find-heros/static/js/main.70bab65f.chunk.js.map",
-    "runtime-main.js": "/subhashish12/find-heros/static/js/runtime-main.7e285b9d.js",
-    "runtime-main.js.map": "/subhashish12/find-heros/static/js/runtime-main.7e285b9d.js.map",
-    "static/js/2.9fc7c5d0.chunk.js": "/subhashish12/find-heros/static/js/2.9fc7c5d0.chunk.js",
-    "static/js/2.9fc7c5d0.chunk.js.map": "/subhashish12/find-heros/static/js/2.9fc7c5d0.chunk.js.map",
-    "index.html": "/subhashish12/find-heros/index.html",
-    "precache-manifest.ca3f69d03513e4c010bb9ddea307f394.js": "/subhashish12/find-heros/precache-manifest.ca3f69d03513e4c010bb9ddea307f394.js",
-    "service-worker.js": "/subhashish12/find-heros/service-worker.js",
-    "static/css/main.8d01695e.chunk.css.map": "/subhashish12/find-heros/static/css/main.8d01695e.chunk.css.map",
-    "static/js/2.9fc7c5d0.chunk.js.LICENSE.txt": "/subhashish12/find-heros/static/js/2.9fc7c5d0.chunk.js.LICENSE.txt"
+    "main.css": "/find-heros/static/css/main.8d01695e.chunk.css",
+    "main.js": "/find-heros/static/js/main.2241e05e.chunk.js",
+    "main.js.map": "/find-heros/static/js/main.2241e05e.chunk.js.map",
+    "runtime-main.js": "/find-heros/static/js/runtime-main.83da45d3.js",
+    "runtime-main.js.map": "/find-heros/static/js/runtime-main.83da45d3.js.map",
+    "static/js/2.9fc7c5d0.chunk.js": "/find-heros/static/js/2.9fc7c5d0.chunk.js",
+    "static/js/2.9fc7c5d0.chunk.js.map": "/find-heros/static/js/2.9fc7c5d0.chunk.js.map",
+    "index.html": "/find-heros/index.html",
+    "precache-manifest.94d7bf662bc12b900bbe984e764323a3.js": "/find-heros/precache-manifest.94d7bf662bc12b900bbe984e764323a3.js",
+    "service-worker.js": "/find-heros/service-worker.js",
+    "static/css/main.8d01695e.chunk.css.map": "/find-heros/static/css/main.8d01695e.chunk.css.map",
+    "static/js/2.9fc7c5d0.chunk.js.LICENSE.txt": "/find-heros/static/js/2.9fc7c5d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e285b9d.js",
+    "static/js/runtime-main.83da45d3.js",
     "static/js/2.9fc7c5d0.chunk.js",
     "static/css/main.8d01695e.chunk.css",
-    "static/js/main.70bab65f.chunk.js"
+    "static/js/main.2241e05e.chunk.js"
   ]
 }
